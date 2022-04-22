@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MySuperGit
 - 👀 I’m interested in Java or C++(GUI:MFC)
 - 🌱 I’m currently learning MFC
-- 💞️ I’m looking to collaborate on ...
+- 💞️ <!---I’m looking to collaborate on ...--->
 - 📫 How to reach me Email:my_kakuo@126.com
-
 
 我会把我认为有趣或有意义的项目放在这里，而不局限于语言  
 I will place projects here that I think are interesting or meaningful, not limited to language
